@@ -1,0 +1,39 @@
+h1{
+    color:black;
+    background-color: bisque;
+    
+    text-align: center;
+    font-family:monospace;
+    font-size: 50px;
+    font-weight: 700;
+   
+}
+
+.recipes{
+    border: solid 10px blanchedalmond;
+    width: 700px;
+    
+}
+
+.menu{
+    font-size:40px;
+    color: black;
+    list-style-type: none;
+    
+}
+
+
+#item{
+    background-color: antiquewhite;
+    
+}
+
+body{
+    background-color: rgb(181, 206, 181);
+}
+
+
+*{
+    padding: none;
+    margin: none;
+}
